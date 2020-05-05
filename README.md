@@ -1,4 +1,4 @@
-# oled-quenching-stability
-Analyzing changes in bimolecular quenching and efficiency roll-off during degradation of OLEDs.
+# Low-bias exciton quenching
+Analyzing photoluminescence quenching in OLEDs operated at low biases.
 
 This repository will include data and code supporting a forthcoming publication.
