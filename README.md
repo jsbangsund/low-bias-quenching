@@ -1,7 +1,7 @@
 # Low-bias exciton quenching
-This repository contains code for simulating photoluminescence quenching in organic light-emitting devices (OLEDs) operated at low biases. If you find this code useful, please cite our publication:
+This repository contains code for simulating photoluminescence quenching in organic light-emitting devices (OLEDs) operated at low biases. If you find this code useful, please cite our [publication](https://doi.org/10.1126/sciadv.abb2659):
 
->J. S. Bangsund, J. R. Van Sambeek, N. M. Concannon, R. J. Holmes, Sub–turn-on exciton quenching due to molecular orientation and polarization in organic light-emitting devices. Sci. Adv. 6, eabb2659 (2020).
+>J. S. Bangsund, J. R. Van Sambeek, N. M. Concannon, R. J. Holmes, Sub–turn-on exciton quenching due to molecular orientation and polarization in organic light-emitting devices. Sci. Adv. 6, eabb2659 (2020). DOI: 10.1126/sciadv.abb2659
 
 <img src="https://github.com/jsbangsund/low-bias-quenching/blob/master/Plots/teaser.png" alt="Photoluminescence quenching below device turn-on" width="600">
 
